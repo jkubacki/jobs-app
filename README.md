@@ -1,17 +1,27 @@
-# Jobs App
+## Jobs App
 
-## Frontend - next.js, typescript, react, redux, redux-saga, shadcn/ui
+A simple app to keep track of job listings and applications. To showcase my skill set.
+
+### Frontend
 
 https://github.com/jkubacki/jobs-frontend
 
-## Api - rails, elasticsearch
+`next.js, typescript, react, redux, redux-saga, shadcn/ui`
+
+### Api
 
 https://github.com/jkubacki/jobs-api
 
-## AWS provisioning with Terraform
+`rails, elasticsearch`
+
+### AWS provisioning
 
 https://github.com/jkubacki/jobs-terraform
 
-## Kubernetes GitOps with ArgoCD
+`terraform`
+
+### Kubernetes GitOps
 
 https://github.com/jkubacki/jobs-kubernetes
+
+`argocd`
