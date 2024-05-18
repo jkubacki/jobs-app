@@ -6,7 +6,7 @@ A simple app to keep track of job listings and applications. To showcase my skil
 
 https://github.com/jkubacki/jobs-frontend
 
-`next.js, typescript, react, redux, redux-saga, shadcn/ui`
+`next.js, typescript, react, redux, redux-saga, shadcn/ui, tailwind css`
 
 ### Api
 
