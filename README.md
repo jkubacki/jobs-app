@@ -2,9 +2,9 @@
 
 A simple app to keep track of job listings and applications.
 
-Created to showcase my skill set - https://jakubkubacki.com/
+Created to showcase my skill set
 
-<img width="894" alt="Screenshot 2024-05-19 at 00 54 47" src="https://github.com/jkubacki/jobs/assets/1104186/35fb1d39-9b6f-47f4-a49f-0d76469e2974">
+![output](https://github.com/jkubacki/jobs/assets/1104186/67827e74-db84-472d-aef1-efa86d02052d)
 
 
 ### Frontend
@@ -38,3 +38,6 @@ https://github.com/jkubacki/jobs-kubernetes
 `next.js, typescript, react, shadcn/ui, tailwind css`
 
 https://jakubkubacki.com/
+
+<img width="924" alt="jakubkubacki.com" src="https://github.com/jkubacki/jobs/assets/1104186/4470170a-7d3f-414d-9c8a-1ac4638c275a">
+
