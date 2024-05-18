@@ -1,6 +1,8 @@
 ## Jobs App
 
-A simple app to keep track of job listings and applications. To showcase my skill set.
+A simple app to keep track of job listings and applications.
+
+Created to showcase my skill set.
 
 ### Frontend
 
