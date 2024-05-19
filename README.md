@@ -29,7 +29,7 @@ https://github.com/jkubacki/jobs-terraform
 
 https://github.com/jkubacki/jobs-kubernetes
 
-`argocd`
+`ArgoCD, Kustomize, Helm, Grafana, Prometheus, Alert Manager, Elastic Cloud, Fluentd, Cert Manager, Sealed Secrets`
 
 ---
 
