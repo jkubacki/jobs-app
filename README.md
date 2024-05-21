@@ -21,13 +21,13 @@ https://github.com/jkubacki/jobs-api
 
 `rails, elasticsearch`
 
-### AWS provisioning [TBA]
+### AWS provisioning
 
 https://github.com/jkubacki/jobs-terraform
 
 `terraform`
 
-### Kubernetes GitOps [TBA]
+### Kubernetes GitOps
 
 https://github.com/jkubacki/jobs-kubernetes
 
