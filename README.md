@@ -1,5 +1,7 @@
 ## Jobs App
 
+jobs.jakubkubacki.com
+
 A simple app to keep track of job listings and applications.
 
 A demo to show my skills.
