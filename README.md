@@ -1,6 +1,6 @@
 ## Jobs App
 
-jobs.jakubkubacki.com
+https://jobs.jakubkubacki.com
 
 A simple app to keep track of job listings and applications.
 
