@@ -15,7 +15,7 @@ https://github.com/jkubacki/jobs-frontend
 
 `next.js, typescript, react, redux, redux-saga, shadcn/ui, tailwind css`
 
-### Api
+### API
 
 https://github.com/jkubacki/jobs-api
 
