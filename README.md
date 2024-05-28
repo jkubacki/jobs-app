@@ -6,8 +6,7 @@ A simple app to keep track of job listings and applications.
 
 A demo to show my skills.
 
-![output](https://github.com/jkubacki/jobs/assets/1104186/67827e74-db84-472d-aef1-efa86d02052d)
-
+![output](https://github.com/jkubacki/jobs-app/assets/1104186/1cf0a889-5ebf-4fcf-b5db-7652a4e3e972)
 
 ### Frontend
 
